@@ -71,10 +71,10 @@ cd ekep
 EKEP works on its own, but it's also the engine at the start of Quarizmi's end-to-end paid-search system:
 
 - **EKEP** — discovers long-tail keywords _(you are here)_
-- **[Bidbot](../bidbot)** — decides bids and which keywords to turn on or off
-- **[Usable](../usable)** — builds full campaigns with the user in the loop
-- **[Magneto](../magneto)** — writes high-relevance ads for every keyword
-- **[Health Checker](../health-checker)** — grades an existing Google Ads account (standalone)
+- **[Bidbot](https://github.com/Quarizmi/bidbot)** — decides bids and which keywords to turn on or off
+- **[Usable](https://github.com/Quarizmi/usable)** — builds full campaigns with the user in the loop
+- **[Magneto](https://github.com/Quarizmi/magneto)** — writes high-relevance ads for every keyword
+- **[Health Checker](https://github.com/Quarizmi/healthchecker)** — grades an existing Google Ads account (standalone)
 
 ## Use it yourself, or work with us
 
